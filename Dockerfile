@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-RUN echo "Hello, microk8s!" > /usr/share/nginx/html/index.html
+RUN echo "Hello, kaniko!" > /usr/share/nginx/html/index.html
